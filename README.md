@@ -1,6 +1,6 @@
 # Open Source Guides
 
-[![Build Status](https://travis-ci.org/github/open-source-guide.svg?branch=gh-pages)](https://travis-ci.org/github/open-source-guide)
+[![Build Status](https://travis-ci.org/github/opensource.guide.svg?branch=gh-pages)](https://travis-ci.org/github/opensource.guide)
 
 Open Source Guides (https://opensource.guide/) are a collection of resources for individuals, communities, and companies who want to learn how to run and contribute to an open source project.
 
@@ -17,24 +17,11 @@ We've shared our vision and priorities for this project in our [roadmap](docs/ro
 
 ## Contributing
 
-Our goal is for this project to reflect community best practices, so we'd love your input! Got a question or an idea? Check out our [contributing guidelines](/CONTRIBUTING.md) for ways to offer feedback and contribute.
+This site is powered by [Jekyll](https://jekyllrb.com/). Our goal is for this project to reflect community best practices, so we'd love your input! Got a question or an idea? Check out our [contributing guidelines](/CONTRIBUTING.md) for ways to offer feedback and contribute.
 
 ## Licenses
 
-Content is released under [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/), which gives you permission to use content for almost any purpose (but does not grant you any trademark permissions), so long as you note the license and give credit, such as follows:
-
-> Content based on [github.com/github/open-source-guide](https://github.com/github/open-source-guide) used under the [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/) license.
-
-Code, including source files and code samples if any in the content, is released under [CC0-1.0](https://creativecommons.org/publicdomain/zero/1.0/), with the following exceptions:
-
-* The primer components in `node_modules` are under the MIT license; see `LICENSE` in each component's directory
-* The [Octicons images](https://octicons.github.com) are under the [SIL OFL 1.1](http://scripts.sil.org/OFL)
-
-This means you can use the code and content in this repository except for GitHub trademarks in your own projects. When using the GitHub logos, be sure to follow the [GitHub logo guidelines](https://github.com/logos).
-
-When you contribute to this repository you are doing so under the above licenses.
-
-Screenshots and images from other projects are used according to [various permissions](notices.md#permissions).
+Content is released under [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/). See [notices](notices.md) for complete details, including attribution guidelines, contribution terms, and software and third-party licenses and permissions.
 
 ## Acknowledgments
 
